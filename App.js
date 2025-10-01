@@ -10,8 +10,8 @@ export default function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator initialRouteName="Home">
-        <Stack.Screen name="Home" component={HomeScreen} options={{ title: "Película" }} />
-        <Stack.Screen name="Detail" component={DetailScreen} options={{ title: "Detalles" }} />
+        <Stack.Screen name="Home" component={HomeScreen} options={{ title: "Movie" }} />
+        <Stack.Screen name="Detail" component={DetailScreen} options={{ title: "Details" }} />
       </Stack.Navigator>
     </NavigationContainer>
   );
