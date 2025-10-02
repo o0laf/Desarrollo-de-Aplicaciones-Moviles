@@ -10,9 +10,6 @@ Este proyecto es un trabajo práctico para consumir la API de [The Movie Databas
 - npm o yarn
 - Expo Go (app para Android/iOS que permite probar el proyecto)
 
-No hace falta instalar Expo CLI globalmente.  
-Podés usar **NPX** para correr el proyecto.
-
 ## Ejecución
 
 1. Clonar el repositorio:
